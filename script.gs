@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////
 // YOUR API KEY GOES BETWEEN THE QUOTATION MARKS
-var API = "xxx-your-api-key-goes-here-xxx"
+var API = "xxx-your-transferwise-readOnly-api-key-goes-here-xxx"
 
 // STATEMENT BEGIN DATE | YYYY-MM-DD
 var beginDate = "2019-04-01";
